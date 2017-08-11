@@ -1,0 +1,22 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "my first node.js",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "meadowlark"
+  },
+  "keywords": [
+    "793100"
+  ],
+  "author": "skyyang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express3-handlebars": "^0.5.2"
+  }
+}
